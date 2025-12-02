@@ -15,6 +15,7 @@ venv/
 # Data and models
 data/
 models/
+reports/
 
 # Jupyter
 .ipynb_checkpoints/
